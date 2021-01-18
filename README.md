@@ -5,7 +5,7 @@ try to create human pose estimation using pytorch and touchdesiger.
 *just for my own private work repo under processing, so uploaded files are not full data.
 
 ### sample ###
-tba
+https://youtu.be/hOA2RvcGwbQ
 
 ### spec ###
 - windows 10
